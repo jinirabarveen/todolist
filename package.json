@@ -1,0 +1,24 @@
+{
+  "name": "express-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+      "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinocr/express-todo.git"
+  },
+  "author": "jinira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinocr/express-todo/issues"
+  },
+  "homepage": "https://github.com/vinocr/express-todo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
